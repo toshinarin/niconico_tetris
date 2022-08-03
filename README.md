@@ -1,4 +1,6 @@
 # niconico_tetris
+
+Implemented tetris as shown in this video.
 https://www.youtube.com/watch?v=-tc-Pog0zXs
 
 ## Preview
